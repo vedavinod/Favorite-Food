@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    margin-bottom: 50px;
+}
+
+#img1 {
+    border-radius: 20%;
+    width:230px;
+    height: 200px;
+}
+#welcome {
+    position: absolute;
+     bottom: 0;
+     background:linear-gradient(#880691 0%, #f0a1cf 100%);
+     display: table;
+     width: 100%;
+     height:100%;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+p {
+    font-family: 'Cedarville Cursive', cursive;
+    padding: 50px;
+    font-size: 30px;
+
+}
+.line {
+    height:6px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+.parallax-inner {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+.menu {
+    position:fixed;
+    top: 0px;
+    margin-top:0px;
+    z-index:10;
+    background-color:white;
+    width:100%;
+}
+.links {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+    padding-left: 9px;
+    padding-right: 9px;
+    display: inline;
+    
+   
+}
+ 
+#name {
+    font-family: 'Dancing Script', cursive;
+}
+
+#vv {
+    font-weight: bolder;
+    color:#ed3fa5 
+}
+.links:hover {
+    font-size:25px;
+    text-decoration: none;
+    
+}
+#contact iframe {
+    width:100%;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+#img2 {
+    border-radius: 50%;
+    width: 200;
+    height: 250;
+
+}
